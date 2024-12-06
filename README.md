@@ -1,2 +1,3 @@
-# github_copilot_workshop
-Repo for the GitHub Copilot workshop
+This repo hosts the materials for the GitHub Copilot for Coding Productivity workshop hosted by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
+
+[BEFORE THE WORKSHOP, PLEASE FOLLOW THE INSTRUCTIONS IN THIS DOCUMENT](https://github.com/nuitrcs/github_copilot_workshop/blob/main/todo_before_the_workshop.pdf). If you’re having any issues following the instructions, please [submit a free consultation using this form](https://app.smartsheet.com/b/form/2f2ec327e6164f83b588b7bbe2e2b56f) at least three business days prior to the workshop.
